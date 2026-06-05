@@ -1,0 +1,12 @@
+PS C:\Users\Mariam Kessa\Documents\Introduction_to_AI\First_AI_Lab> & "C:/Users/Mariam Kessa/AppData/Local/Programs/Python/Python314/python.exe" "c:/Users/Mariam Kessa/Documents/Introduction_to_AI/First_AI_Lab/.venv/environment_test.py"
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.14.5
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+⚠️  Virtual Environment: Not active
+==================================================
